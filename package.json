@@ -1,0 +1,20 @@
+{
+  "name": "denologic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build-cache.js",
+    "test": "jest"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "hylar": "^10.0.4",
+    "jsonld": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
