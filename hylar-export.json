@@ -1,0 +1,1614 @@
+[
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/diameter"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "12240"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/terrain"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "cityscape, mountains"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/type"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Planet"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/type"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Planet"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/type"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Planet"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/type"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Planet"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/type"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Planet"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Tatooine"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Naboo"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Coruscant"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/4/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "The Phantom Menace"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Kamino"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Geonosis"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/name"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "Attack of the Clones"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/rotation_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "23"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/rotation_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "26"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/rotation_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "24"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/rotation_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "27"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/rotation_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "30"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/orbital_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "304"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/orbital_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "312"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/orbital_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "368"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/orbital_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "463"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/orbital_period"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "256"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/diameter"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "10465"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/diameter"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "12120"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/diameter"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "19720"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/diameter"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "11370"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/climate"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "arid"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/climate"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "temperate"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/climate"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "temperate"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/climate"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "temperate"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/climate"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "temperate, arid"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/gravity"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1 standard"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/gravity"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1 standard"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/gravity"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1 standard"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/gravity"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1 standard"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/gravity"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "0.9 standard"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/terrain"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "desert"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/terrain"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "grassy hills, swamps, forests, mountains"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/terrain"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "ocean"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/terrain"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "rock, desert, mountain, barren"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/surface_water"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/surface_water"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "12"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/surface_water"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "unknown"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/surface_water"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "100"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/surface_water"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "5"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/population"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "200000"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/population"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "4500000000"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/population"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1000000000000"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/population"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1000000000"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/population"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "100000000000"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/4/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/release_date"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "1999-05-19"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/release_date"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "2002-05-16"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/4/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/4/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/4/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/1/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/8/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/9/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/10/"
+    }
+  },
+  {
+    "subject": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/films/5/"
+    },
+    "predicate": {
+      "interfaceName": "NamedNode",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/vocab/planet"
+    },
+    "object": {
+      "interfaceName": "Literal",
+      "attributes": [
+        "interfaceName",
+        "nominalValue"
+      ],
+      "nominalValue": "https://swapi.dev/api/planets/11/"
+    }
+  }
+]

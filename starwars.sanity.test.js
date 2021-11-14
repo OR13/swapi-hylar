@@ -1,3 +1,5 @@
+const fs = require("fs");
+const path = require("path");
 const agent = require("./agent");
 
 const [episode_1, episode_2] = require("./films.json").results.sort((a, b) => {
@@ -56,5 +58,16 @@ describe("questions about star wars", () => {
       })
     );
     expect(names).toEqual(["Tatooine", "Naboo", "Coruscant"]);
+    console.log();
+  });
+});
+
+describe("export and interop", () => {
+  it("can export database", async () => {
+    const results = await agent.h.sm.getContent();
+    fs.writeFileSync(
+      path.resolve(__dirname, "./hylar-export.json"),
+      JSON.stringify(results.triples, null, 2)
+    );
   });
 });
